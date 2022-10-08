@@ -25,10 +25,4 @@ ed= (eb) * (cde/100)
 em= (ed) - (1.04*pbg)
 novo_em=em/1000
 valor_final2=nem/novo_em
-print (" o valor de ENN (%) é = ",enn)
-print (" o valor de ENN em g/Kg =", novo_enn)
-print (" o valor de Energia Bruta (kcal/kg) é =",eb)
-print (" o valor de CDE (%) é =", cde)
-print (" o valor de EM (%) é = ",em)
-print("quantidade diaria de alimento com o alimento após transição de dieta completa",valor_final2)
 print(" O valor NEM DIÁRIA é :", valor_final)
